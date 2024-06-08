@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farcaster Frame Example</title>
+
+    <!-- Required Farcaster frame meta tags -->
+    <meta property="og:type" content="farcaster:frame">
+    <meta property="og:title" content="My Farcaster Frame">
+    <meta property="og:description" content="An example frame for Farcaster.">
+    <meta property="og:image" content="https://example.com/path/to/your/image.png">
+
+    <!-- Additional optional Farcaster frame meta tags -->
+    <meta property="farcaster:frame:width" content="400">
+    <meta property="farcaster:frame:height" content="300">
+    <meta property="farcaster:frame:interactive" content="true">
+</head>
+<body>
+    <h1>Welcome to My Farcaster Frame</h1>
+    <p>This is a simple example of a Farcaster frame.</p>
+</body>
+</html>
